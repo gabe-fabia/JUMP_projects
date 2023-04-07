@@ -27,12 +27,6 @@ Extensions (optional):
     
 """
 
-""" TO DO:
-    - log file for rps
-    - clean up this main file for proper menu interaction
-    - if time permits, implement anthoer game or two (tictactoe, number guess)
-
-"""
 
 from rps import *
 
